@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Richard
-I like deep neural network machine learning.
+- :information_source: I like deep neural network machine learning 
 
 <!---
 svenssona/svenssona is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
